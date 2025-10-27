@@ -1,6 +1,5 @@
 
 
-```markdown
 # 👋 Ooi, eu sou a Anna Carolina!
 
 <div align="center">
