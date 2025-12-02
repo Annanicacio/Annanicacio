@@ -3,9 +3,9 @@
 # 👋 Ooi, eu sou a Anna Carolina!
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annanicacio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annanicacio&layout=compact&theme=radical"/>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annanicacio&show_icons=true&theme=radical)
+  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Annanicacio&layout=compact&theme=radical)
 
 </div>
 
@@ -45,3 +45,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna.neves@unemat.br)
 
 ---
+meu read me nao ta carregando as estrelas do github e as linguagens mais usadas, o que pode ter ocorrido?
