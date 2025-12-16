@@ -10,7 +10,7 @@
 
 - **Técnico em Automação Industrial** - Instituto Federal do Mato Grosso (IFMT) ✅
 - **Bacharelado em Sistemas de Informação** - Universidade Estadual do Mato Grosso (UNEMAT) 🎯 *em andamento*
-- **Estagiária em Enegnharia de Dados e Automação RPA** 🎲
+- **Estagiária em Engenharia de Dados e Automação RPA** 🎲
 
 ## 🎯 Áreas de Interesse
 
