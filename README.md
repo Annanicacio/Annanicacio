@@ -10,12 +10,13 @@
 
 - **Técnico em Automação Industrial** - Instituto Federal do Mato Grosso (IFMT) ✅
 - **Bacharelado em Sistemas de Informação** - Universidade Estadual do Mato Grosso (UNEMAT) 🎯 *em andamento*
+- **Estagiária em Enegnharia de Dados e Automação RPA** 🎲
 
 ## 🎯 Áreas de Interesse
 
-### 🤖 Automações com N8N
+### 🤖 Automações com RPA
 ![N8N](https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=white)
-**Workflows Automatizados** • **Integração de Sistemas** • **Automação de Processos**
+• **Integração de Sistemas** • **Automação de Processos**
 
 ### 🐍 Backend com Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,5 +42,4 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna.neves@unemat.br)
 
----
-meu read me nao ta carregando as estrelas do github e as linguagens mais usadas, o que pode ter ocorrido?
+
