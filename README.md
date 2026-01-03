@@ -3,8 +3,10 @@
 # 👋 Ooi, eu sou a Anna Carolina!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annanicacio&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annanicacio&layout=compact&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Annanicacio&theme=radical&no-frame=true&margin-w=4" />
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annanicacio&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🎓 Formação Acadêmica
