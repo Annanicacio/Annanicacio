@@ -3,7 +3,11 @@
 # 👋 Ooi, eu sou a Anna Carolina!
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Annanicacio?template=classic&base=header,activity,community,repositories,metadata&languages=1&config.timezone=America%2FSao_Paulo" alt="Metrics" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annanicacio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annanicacio&layout=compact&theme=radical"/>
+
 </div>
 
 ## 🎓 Formação Acadêmica
