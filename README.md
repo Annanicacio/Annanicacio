@@ -1,9 +1,16 @@
 
 
 # 👋 Ooi, eu sou a Anna Carolina!
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Annanicacio&show_icons=true&theme=radical&include_all_commits=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Annanicacio&layout=compact&theme=radical)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Annanicacio&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annanicacio&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ## 🎓 Formação Acadêmica
 
