@@ -9,14 +9,14 @@
 ## 🎓 Formação Acadêmica
 
 - **Técnico em Automação Industrial** - Instituto Federal do Mato Grosso (IFMT) ✅
-- **Bacharelado em Sistemas de Informação** - Universidade Estadual do Mato Grosso (UNEMAT) 🎯 *em andamento*
+- **Bacharelado em Sistemas de Informação** - Universidade Estadual do Mato Grosso (UNEMAT) *em andamento*
 - **Analista Júnior em Engenharia de Dados e Automação RPA** 🎲
 
-## 🎯 Áreas de Interesse
+## **Áreas de Interesse**
 
 ### 🤖 Automações com RPA
 ![N8N](https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=white)
-• **Integração de Sistemas** • **Automação de Processos**
+• **Integração de Sistemas** • **Automação de Processos** • **Construção de APIs com FastAPI**
 
 ### 🐍 Backend com Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
